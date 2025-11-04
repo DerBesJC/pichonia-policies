@@ -1,4 +1,4 @@
 # Pichonia Policies
 Public-facing policies for Pichonia products.
-- Dropt (Logistics App)
+- Logistics App
 - Trading AI Platform

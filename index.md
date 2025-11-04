@@ -4,6 +4,7 @@ Welcome to the public policy hub for Pichonia LLC.
 
 ## Logistics
 - [Privacy Policy](logistics/privacy_policy.md)
+- [Data Export](logistics/data_export.md)
 - [Support Contacts](logistics/support_contacts.md)
 - [Responsible Disclosure](logistics/responsible_disclosure.md)
 - [Cookie Tracking Notice](logistics/cookie_tracking_notice.md)
@@ -13,6 +14,7 @@ Welcome to the public policy hub for Pichonia LLC.
 
 ## Trading AI
 - [Privacy Policy](trading_ai/privacy_policy.md)
+- [Data Export](trading_ai/data_export.md)
 - [Support Contacts](trading_ai/support_contacts.md)
 - [Responsible Disclosure](trading_ai/responsible_disclosure.md)
 - [Cookie Tracking Notice](trading_ai/cookie_tracking_notice.md)

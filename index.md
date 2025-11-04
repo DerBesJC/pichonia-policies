@@ -2,7 +2,7 @@
 
 Welcome to the public policy hub for Pichonia LLC.
 
-## Logistics (Dropt)
+## Logistics
 - [Privacy Policy](logistics/privacy_policy.md)
 - [Terms of Service](logistics/terms_of_service.md)
 

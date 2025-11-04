@@ -12,6 +12,7 @@ Welcome to the public policy hub for Pichonia LLC.
 
 ## Trading AI
 - [Privacy Policy](trading_ai/privacy_policy.md)
+- [Cookie Tracking Notice](trading_ai/cookie_tracking_notice.md)
 - [Cookie Tracking Notice](trading_ai/cookie__tracking_notice.md)
 - [Security Overview](trading_ai/security_overview.md)
 - [Data Deletion](trading_ai/data_deletion.md)

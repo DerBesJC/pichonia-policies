@@ -2,7 +2,7 @@
 _Last updated: 2025-11-03_
 
 ## 1. Scope
-This policy explains how users of the Pichonia logistics app (“Dropt”) can request deletion of their personal data and what data we may retain to meet legal, security, and operational requirements.
+This policy explains how users of the Pichonia logistics app can request deletion of their personal data and what data we may retain to meet legal, security, and operational requirements.
 
 ## 2. Who May Request Deletion
 - **Customers, Truck Owners, and Drivers** with verified accounts.
@@ -22,7 +22,7 @@ We may retain limited data where required or allowed by law and platform safety:
 - **Backups**: data may persist in encrypted backups for up to **30–90 days** after deletion before rolling out.
 
 ## 5. Third-Party Processors Involved
-We will forward or instruct deletion where applicable for integrated services used by Dropt, including (as enabled in your deployment):
+We will forward or instruct deletion where applicable for integrated services used by the logistics app, including (as enabled in your deployment):
 - **Stripe** (payments), **Firebase** (Auth/FCM/Crashlytics/Firestore), **Google Maps Platform** (geolocation/places).  
 Processor-specific retention policies may apply; we request deletion of linked records where feasible.
 

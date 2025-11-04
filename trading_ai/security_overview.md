@@ -1,4 +1,4 @@
-# Security Overview – Logistics
+# Security Overview – Trading AI
 _Last updated: 2025-11-04_
 
 ## 1. Overview

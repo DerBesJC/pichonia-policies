@@ -1,12 +1,12 @@
-# Privacy Policy – Dropt (Logistics App)
+# Privacy Policy – Logistics App
 _Last updated: 2025-11-03_
 
-Pichonia LLC (“Pichonia”, “we”, “us”, “our”) operates the Dropt mobile app and related services.  
+Pichonia LLC (“Pichonia”, “we”, “us”, “our”) operates the logistics mobile app and related services.  
 **Contact:** info@pichonia.com · +1-202-670-7299 · 8 The Green STE B, Dover, DE 19901.
 
 <!-- SECTION START: Scope -->
 ## 1. Scope
-This policy covers the Dropt app and backend services that connect truck owners, drivers, and customers for logistics jobs.
+This policy covers the logistics app and backend services that connect truck owners, drivers, and customers for logistics jobs.
 <!-- SECTION END: Scope -->
 
 <!-- SECTION START: Data We Collect -->

@@ -36,3 +36,4 @@ privacy@pichonia.com
 security@pichonia.com
 support@pichonia.com
 tech@pichonia.com
+legal@pichonia.com

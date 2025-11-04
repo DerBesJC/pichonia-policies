@@ -27,3 +27,4 @@ _Last updated: 2025-11-04_
 
 ## 7) Company Contact
 Pichonia LLC · 8 The Green STE B, Dover, DE 19901 · +1-202-670-7299 · info@pichonia.com
+Contact: legal@pichonia.com

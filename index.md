@@ -4,6 +4,7 @@ Welcome to the public policy hub for Pichonia LLC.
 
 ## Logistics
 - [Privacy Policy](logistics/privacy_policy.md)
+- [Security Overview](logistics/security_overview.md)
 - [Data Deletion](logistics/data_deletion.md)
 - [Terms of Service](logistics/terms_of_service.md)
 

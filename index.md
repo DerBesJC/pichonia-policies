@@ -4,6 +4,7 @@ Welcome to the public policy hub for Pichonia LLC.
 
 ## Logistics
 - [Privacy Policy](logistics/privacy_policy.md)
+- [Support Contacts](logistics/support_contacts.md)
 - [Responsible Disclosure](logistics/responsible_disclosure.md)
 - [Cookie Tracking Notice](logistics/cookie_tracking_notice.md)
 - [Security Overview](logistics/security_overview.md)

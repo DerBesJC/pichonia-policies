@@ -67,8 +67,15 @@ We may suspend or terminate accounts for violations or risk. You may stop using 
 
 <!-- SECTION START: Governing Law & Disputes -->
 ## 11. Governing Law & Dispute Resolution
-These Terms are governed by **Delaware** law.  
-**Arbitration (placeholder):** Disputes will be resolved by binding arbitration (e.g., AAA/JAMS) on an individual basis, with a small-claims court carve-out and waiver of class actions/jury trial. **We’ll finalize provider/rules after your preference.**
+These Terms are governed by the laws of the State of **Delaware**, without regard to conflict-of-laws rules.
+
+**Binding Arbitration.** Except for small-claims matters as noted below, any dispute, claim, or controversy arising out of or relating to these Terms or the Service will be resolved by **binding arbitration** administered by the **American Arbitration Association (AAA)** under its **Consumer Arbitration Rules** (or **Commercial Rules** if you are registering/acting on behalf of a business). The arbitration will be conducted by a single arbitrator. The **seat/venue is Delaware**, and hearings may be held **by video conference** unless the arbitrator requires otherwise.
+
+**Small-Claims; Injunctive Relief.** Either party may bring an individual action in small-claims court with appropriate jurisdiction. Either party may seek temporary or preliminary injunctive relief in a court of competent jurisdiction to protect rights pending arbitration.
+
+**Class & Jury Waiver.** You and Pichonia agree that **each may bring claims only in an individual capacity** and **not** as a plaintiff or class member in any purported class, collective, or representative proceeding. You and Pichonia **waive any right to a jury trial**.
+
+**Fees.** AAA rules govern fees. Each party bears its own attorneys’ fees and costs unless the arbitrator’s award provides otherwise as permitted by applicable law.
 <!-- SECTION END: Governing Law & Disputes -->
 
 <!-- SECTION START: Changes -->

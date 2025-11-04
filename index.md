@@ -4,6 +4,7 @@ Welcome to the public policy hub for Pichonia LLC.
 
 ## Logistics
 - [Privacy Policy](logistics/privacy_policy.md)
+- [Cookie Tracking Notice](logistics/cookie_tracking_notice.md)
 - [Cookie Tracking Notice](logistics/cookie__tracking_notice.md)
 - [Security Overview](logistics/security_overview.md)
 - [Data Deletion](logistics/data_deletion.md)

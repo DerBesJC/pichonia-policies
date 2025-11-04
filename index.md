@@ -8,6 +8,7 @@ Welcome to the public policy hub for Pichonia LLC.
 
 ## Trading AI
 - [Privacy Policy](trading_ai/privacy_policy.md)
+- [Data Deletion](trading_ai/data_deletion.md)
 - [Terms of Service](trading_ai/terms_of_service.md)
 
 ---

@@ -4,6 +4,7 @@ Welcome to the public policy hub for Pichonia LLC.
 
 ## Logistics
 - [Privacy Policy](logistics/privacy_policy.md)
+- [Data Deletion](logistics/data_deletion.md)
 - [Terms of Service](logistics/terms_of_service.md)
 
 ## Trading AI
@@ -16,5 +17,4 @@ Welcome to the public policy hub for Pichonia LLC.
 **Contact**  
 info@pichonia.com · +1-202-670-7299  
 8 The Green STE B, Dover, DE 19901
-## Logistics
-- [Data Deletion](logistics/data_deletion.md)
+

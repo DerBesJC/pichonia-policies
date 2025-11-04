@@ -1,7 +1,7 @@
-# Terms of Service – Dropt (Logistics App)
+# Terms of Service – Logistics App
 _Last updated: 2025-11-03_
 
-These Terms govern your use of the Dropt app and services provided by **Pichonia LLC** (“Pichonia”, “we”, “us”).
+These Terms govern your use of the logistics app and services provided by **Pichonia LLC** (“Pichonia”, “we”, “us”).
 
 <!-- SECTION START: Roles & Eligibility -->
 ## 1. Roles & Eligibility
